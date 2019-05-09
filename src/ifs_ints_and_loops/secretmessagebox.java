@@ -2,7 +2,7 @@ package ifs_ints_and_loops;
 
 import javax.swing.JOptionPane;
 
-public class secretmessagebox 
+public class secretmessagebox {
 	public static void main(String[] args) {
 	System.out.println(passcode);
  String password ="Jigglypuff";
